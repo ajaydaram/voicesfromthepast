@@ -1,5 +1,5 @@
 ---
-title: "The Religious Life of Theological Students"
+title: "The Religious Life of Theological Students By BB.Warfield"
 date: 2024-03-12T09:49:03+10:00
 layout: post
 categories: ["Warfield-Devotions"]

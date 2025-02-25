@@ -132,3 +132,5 @@ God's sovereignty gives us hope for the salvation of even the hardest hearts. Kn
 Understanding God's power encourages us to pray boldly. Paul's prayers for the saints in Ephesians 3:20 demonstrate high aspirations, reminding us that God can do far more than we ask or think. John Newton's hymn encourages us to bring large petitions to God, knowing that His grace and power are limitless.
 
 These practical applications of God's sovereignty and power remind us to live in humble submission, trust, reverence, praise, faithful service, and hope. They encourage us to repent from rebellion, trust God's promises, fear Him rightly, praise Him humbly, serve Him faithfully, submit to His will in suffering, hope for the salvation of others, and pray boldly. In all these ways, we acknowledge and respond to the sovereign power of our Almighty God.
+
+Joel Beeke
