@@ -1,14 +1,14 @@
 title:              Christian Devotions Blog
 email:              your-email@example.com
-description:        A Blog about Christian Devotions
+description:        
 author:             Daram Ajay
 baseurl:            "/"
 url:                "https://godlywisdom.netlify.app"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
@@ -24,6 +24,14 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
+  - jekyll-archives
 
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: tag
+  permalinks:
+    tag: '/tag/:name/'
   
