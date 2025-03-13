@@ -7,7 +7,7 @@ description: Ajay
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BBWarfieldPhoto.jpg/240px-BBWarfieldPhoto.jpg"
 ---
-# Regeneration, or the New Birth
+# Regeneration, or the New Birth by A.W Pink and Daram Ajay
 
 ## Introduction: The Divine Transformation
 

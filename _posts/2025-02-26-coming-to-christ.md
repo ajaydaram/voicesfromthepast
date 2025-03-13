@@ -5,7 +5,7 @@ layout: post
 categories: ["Ajay-Devotions"]
 description: Ajay
 ---
-# Coming to Christ: A Spiritual Journey
+# Coming to Christ: A Spiritual Journey by A.W Pink, Daram Ajay
 
 The journey to Christ is not a simple physical act or mental decision, but a profound spiritual transformation that penetrates the deepest parts of our being. It requires divine intervention, as Jesus Himself declared, "No man can come to me, except the Father which has sent me draw him" (John 6:44). This presentation explores the multifaceted nature of coming to Christ - examining the obstacles we face in our fallen state, how our understanding, affections, and will are involved in this supernatural work, and how to discern and validate genuine conversion in an age of religious superficiality.
 

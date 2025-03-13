@@ -19,4 +19,4 @@ It is not that those empty professors who call themselves Christians are all con
 There is a large class in Christendom today who are satisfied with a bare profession. They have heard some of the fundamentals of the Christian faith, and have given an intellectual assent thereto, and they mistake that for a saving knowledge of the Truth. **Their minds are instructed—but their hearts are not reached, nor their lives transformed!**
 They are still worldly in their affections and ways. **There is no real subjection to God, no holiness of walk, no fruit to Christ's glory.**
 
-Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it. Matthew 7:13-14
+Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it. Matthew 7:13-14     A.W Pink

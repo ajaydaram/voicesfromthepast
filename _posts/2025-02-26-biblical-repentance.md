@@ -6,7 +6,7 @@ categories: ["Ajay-Devotions"]
 description: Ajay
 ---
 
-# Repentance: A Biblical Perspective
+# Repentance: A Biblical Perspective by A.W Pink and Daram Ajay
 
 ## Introduction
 
