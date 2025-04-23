@@ -3,7 +3,7 @@ layout: post
 title:  "Desiring God"
 date:   2025-03-23 13:01:53 +0800
 categories: devotions
-author: Thomas Watson
+author: Ajay Daram
 ---
 # Desiring God by Thomas Watson
 
